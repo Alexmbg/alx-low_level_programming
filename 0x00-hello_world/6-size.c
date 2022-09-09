@@ -5,6 +5,7 @@
  *
  * Description: using the main function
  * this program prints the size datatypes
+ *
  * Return: 0
  */
 int main(void)
