@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
- * main - entry point
- * Description: prints 3 combination of numbers
+ * main - Prints 3 combination of numbers 
+ *
  * Return: 0
  */
 int main(void)
